@@ -14,6 +14,6 @@
     <body>
         Ingrese usuario y clave
         
-        
+        <a href="menu.jsp">Ingresar</a>
     </body>
 </html>
